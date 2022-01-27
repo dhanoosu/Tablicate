@@ -2,7 +2,7 @@
 Tablicate - Python library for easy table creation and output to terminal
 
 <p align="center">
-<img src="assets/logo.png">
+<img width="750" src="assets/logo.png">
 </p>
 
 ## Features
