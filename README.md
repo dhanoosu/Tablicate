@@ -1,6 +1,10 @@
 # Tablicate
 Tablicate - Python library for easy table creation and output to terminal
 
+<p align="center">
+<img src="assets/logo.png">
+</p>
+
 ## Features
 - Column-wise justification alignment (left, right, center)
 
